@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://static.example.com/:path*"
+      "destination": "https://mail.cliouo.me/:path*"
     }
   ]
 }
